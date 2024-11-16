@@ -76,9 +76,6 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="45%">
-        <a href="#-my-github-stats--"><img width="100%" src="https://gh-readme-profile.vercel.app/api?username=Kula529&theme=neon-dark&border_width=0&border_radius=15.2&hide_border=true" alt="Kula529" /></a>
-    </td>
     <td align="center" width="55%">
         <a href="#-my-github-stats--"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kula529&theme=2077" alt="Kula529" /></a>
     </td>
@@ -92,6 +89,9 @@
     </td>
   </tr>
 </table>
+
+
+<a align="center" href="#-my-github-stats--"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
 
 
 <h2>
