@@ -75,11 +75,7 @@
 </div>
 
 <table align="center">
-  <tr>
-    <td align="center" width="55%">
-        <a href="#-my-github-stats--"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kula529&theme=2077" alt="Kula529" /></a>
-    </td>
-  </tr>
+
   <tr>
     <td align="center" width="40%">
         <a href="#-my-github-stats--"><img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Kula529&theme=dark&hide_border=true&border_radius=9.4&ring=3A0CA3&fire=D62828&dates=00F5D4&sideLabels=FFC300&stroke=8338EC&currStreakLabel=FFC300" alt="Kula529" /></a>
