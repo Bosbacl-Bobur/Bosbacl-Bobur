@@ -7,6 +7,10 @@
 
 <img src="https://raw.githubusercontent.com/Anon23261/Anon23261/main/assets/matrix.gif" width="100%">
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full-Stack+Software+Engineer;Security+Research+Expert;Low+Level+Systems+Engineer;Kernel+Development+Specialist" alt="Typing SVG" />
+</div>
+
 <h3>
   
   - 📤 Scraping and Automation specialist with solid experience leveraging several tools and APIs<br/>
