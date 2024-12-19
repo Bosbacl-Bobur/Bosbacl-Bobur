@@ -1,15 +1,13 @@
 
 <a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
 
-<h1> 💫 About Me  </h1>
-
-
-
 <img src="https://raw.githubusercontent.com/Anon23261/Anon23261/main/assets/matrix.gif" width="100%">
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full-Stack+Software+Engineer;Security+Research+Expert;Low+Level+Systems+Engineer;Kernel+Development+Specialist" alt="Typing SVG" />
 </div>
+
+<h1> 💫 About Me  </h1>
 
 <h3>
   
