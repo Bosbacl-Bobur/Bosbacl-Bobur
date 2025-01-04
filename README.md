@@ -157,21 +157,7 @@
 
 <img src="assets/borderseperator.gif">
 
-<h3 align="center">Conecte-se Comigo</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/brian-muniz-silveira/" target="_blank">
-    <img align="center" alt="linkedin logo" height="50" width="50" src="assets/linkedinlogo.png" />
-  </a> &nbsp;&nbsp;
 
-  <a href="https://github.com/BrianMunizSilveira" target="_blank">
-    <img align="center" alt="github logo" height="50" width="50" src="assets/githublogo.png"/>
-  </a> &nbsp;&nbsp;
-  
-  <a href="mailto:brian.muniz.silveira@gmail.com" target="_blank">
-    <img align="center" alt="gmail logo" height="50" width="50" src="assets/gmailogo.png" />
-  </a> &nbsp;&nbsp;
-  </a>
-</p>
 
 <a href="#"><img align="left" alt="Finish" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
 
