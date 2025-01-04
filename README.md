@@ -116,9 +116,12 @@
   
   <h1> 
     My GitHub Stats 
-    <a href="#-my-github-stats--">
-      <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/charts.gif" width = 35px height = 35px>
-    </a>
+    <div align="center">
+<a href="https://github.com/vgurud?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=vgurud&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="@vgurud's github-readme-streak-stats"/></a>
+</div>
+<div align="center">
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=vgurud&theme=gotham&hide_border=false&show_icons=true&locale=en&layout=compact" alt="vgurud"/>
+</div>
     
   </h1>
   
